@@ -3,7 +3,7 @@
   "license": "MIT",
   "author": "Daichi Kimura <dkimura@bdd.xyz>",
   "repository": "ssh://git@github.com/dkimura/eslint-config.git",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "fix": "run-s fix:*",
@@ -26,6 +26,8 @@
     "eslint-plugin-react-hooks": "4.2.0"
   },
   "devDependencies": {
+    "@semantic-release/changelog": "5.0.1",
+    "@semantic-release/git": "9.0.0",
     "@types/eslint": "7.2.10",
     "@types/jest": "26.0.22",
     "@types/react": "17.0.3",
@@ -44,23 +46,6 @@
   "publishConfig": {
     "access": "public"
   },
-  "jest": {
-    "moduleFileExtensions": [
-      "ts",
-      "js"
-    ],
-    "transform": {
-      "^.+\\.ts$": "ts-jest"
-    },
-    "globals": {
-      "ts-jest": {
-        "tsconfig": "tsconfig.json"
-      }
-    },
-    "testMatch": [
-      "**/tests/**/*.spec.ts"
-    ]
-  },
   "release": {
     "branches": [
       "main"
@@ -68,8 +53,10 @@
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
+      "@semantic-release/changelog",
       "@semantic-release/npm",
-      "@semantic-release/github"
+      "@semantic-release/github",
+      "@semantic-release/git"
     ]
   }
 }
