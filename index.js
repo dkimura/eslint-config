@@ -5,16 +5,16 @@ const rules = { ...importRules, ...reactRules }
 
 module.exports = {
   overrides: [
+    // RuleSet for JavaScript
     {
-      // RuleSet for JavaScript
-      files: ['**/*.js', '**/*.jsx'],
       extends: ['airbnb', 'airbnb/hooks', './base.js'],
+      files: ['**/*.js', '**/*.jsx'],
       rules,
     },
+    // RuleSet for TypeScript
     {
-      // RuleSet for TypeScript
-      files: ['**/*.ts', '**/*.tsx'],
       extends: ['airbnb-typescript', 'airbnb/hooks', './base.js'],
+      files: ['**/*.ts', '**/*.tsx'],
       rules,
     },
   ],

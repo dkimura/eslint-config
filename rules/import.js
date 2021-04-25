@@ -11,7 +11,6 @@ const rules = {
       tsx: 'never',
     },
   ],
-  'import/order': ['error', { 'newlines-between': 'always' }],
   'import/prefer-default-export': 'off',
 }
 

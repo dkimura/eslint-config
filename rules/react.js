@@ -7,7 +7,6 @@ const rules = {
     { checkFragmentShorthand: true, checkKeyMustBeforeSpread: true },
   ],
   'react/jsx-props-no-spreading': 'off',
-  'react/jsx-sort-props': 'error',
   'react/prop-types': 'off',
 }
 

@@ -2,10 +2,10 @@ const rules = {
   '@typescript-eslint/no-unused-vars': [
     'error',
     {
-      vars: 'all',
       args: 'all',
-      ignoreRestSiblings: false,
       argsIgnorePattern: '^_',
+      ignoreRestSiblings: false,
+      vars: 'all',
     },
   ],
 }

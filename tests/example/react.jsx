@@ -2,7 +2,7 @@
 import React from 'react'
 
 // react/button-has-type
-const ButtonHasType = ({ type, children }) => (
+const ButtonHasType = ({ children, type }) => (
   <button type={type}>{children}</button>
 )
 
