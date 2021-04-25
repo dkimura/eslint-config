@@ -3,7 +3,7 @@
   "license": "MIT",
   "author": "Daichi Kimura <dkimura@bdd.xyz>",
   "repository": "ssh://git@github.com/dkimura/eslint-config.git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "fix": "run-s fix:*",
