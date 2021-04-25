@@ -1,4 +1,5 @@
-module.exports = {
+/** @type {import('prettier').Options} */
+const config = {
   bracketSpacing: true,
   semi: false,
   singleQuote: true,
@@ -6,3 +7,5 @@ module.exports = {
   trailingComma: 'es5',
   useTabs: false,
 }
+
+module.exports = config

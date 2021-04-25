@@ -1,11 +1,14 @@
-module.exports = {
+/** @type {import('@typescript-eslint/experimental-utils').TSESLint.Linter.Config} */
+const config = {
   env: {
-    node: true,
     jest: true,
+    node: true,
   },
-  root: true,
   extends: ['./index.js'],
   parserOptions: {
     project: './tsconfig.json',
   },
+  root: true,
 }
+
+module.exports = config
