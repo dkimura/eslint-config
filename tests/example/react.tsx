@@ -6,7 +6,7 @@ type ButtonHasTypeProps = {
   type: 'submit' | 'button' | 'reset'
 }
 
-const ButtonHasType: React.FC<ButtonHasTypeProps> = ({ type, children }) => (
+const ButtonHasType: React.FC<ButtonHasTypeProps> = ({ children, type }) => (
   <button type={type}>{children}</button>
 )
 

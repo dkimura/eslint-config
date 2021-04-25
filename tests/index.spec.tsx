@@ -1,7 +1,7 @@
 import path from 'path'
 
-import fg from 'fast-glob'
 import { ESLint } from 'eslint'
+import fg from 'fast-glob'
 
 const cli = new ESLint()
 const target = fg.sync(path.resolve(process.cwd(), './tests/example/**/*'))
