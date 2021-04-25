@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/dkimura/eslint-config/compare/v1.1.0...v1.2.0) (2021-04-25)
+
+
+### Features
+
+* Add README.md ([#10](https://github.com/dkimura/eslint-config/issues/10)) ([4abd67e](https://github.com/dkimura/eslint-config/commit/4abd67eb0cea5b974567d239d4907f282ca2983e))
+
 # [1.1.0](https://github.com/dkimura/eslint-config/compare/v1.0.1...v1.1.0) (2021-04-25)
 
 
