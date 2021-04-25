@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/dkimura/eslint-config/compare/v1.2.0...v1.3.0) (2021-04-25)
+
+
+### Features
+
+* Refine npm pack and project settings ([#11](https://github.com/dkimura/eslint-config/issues/11)) ([51b76e7](https://github.com/dkimura/eslint-config/commit/51b76e70f3bf8a3c21df1b56f70b5ea31a79734c))
+
 # [1.2.0](https://github.com/dkimura/eslint-config/compare/v1.1.0...v1.2.0) (2021-04-25)
 
 
