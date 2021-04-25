@@ -4,7 +4,11 @@
   "author": "Daichi Kimura <dkimura@bdd.xyz>",
   "repository": "ssh://git@github.com/dkimura/eslint-config.git",
   "version": "1.2.0",
-  "main": "index.js",
+  "files": [
+    "base.js",
+    "index.js",
+    "rules"
+  ],
   "scripts": {
     "fix": "run-s fix:*",
     "fix:eslint": "yarn lint:eslint --fix",
