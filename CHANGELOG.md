@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/dkimura/eslint-config/compare/v1.0.1...v1.1.0) (2021-04-25)
+
+
+### Features
+
+* Add sort rules ([#9](https://github.com/dkimura/eslint-config/issues/9)) ([d1d7cd8](https://github.com/dkimura/eslint-config/commit/d1d7cd81b5b8903bf8a1d2e8446a8c4dc5ece9c9))
+
 ## [1.0.1](https://github.com/dkimura/eslint-config/compare/v1.0.0...v1.0.1) (2021-04-25)
 
 
