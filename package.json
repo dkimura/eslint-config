@@ -39,7 +39,7 @@
     "@types/eslint": "7.2.13",
     "@types/jest": "26.0.23",
     "@types/react": "17.0.9",
-    "@types/react-dom": "17.0.5",
+    "@types/react-dom": "17.0.6",
     "eslint": "7.27.0",
     "fast-glob": "3.2.5",
     "husky": "6.0.0",
