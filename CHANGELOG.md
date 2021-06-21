@@ -1,3 +1,10 @@
+## [1.3.15](https://github.com/dkimura/eslint-config/compare/v1.3.14...v1.3.15) (2021-06-21)
+
+
+### Bug Fixes
+
+* **deps:** update typescript-eslint monorepo to v4.28.0 ([#61](https://github.com/dkimura/eslint-config/issues/61)) ([27cd4ac](https://github.com/dkimura/eslint-config/commit/27cd4acc6163365aa438cd0ca2b698aa282894da))
+
 ## [1.3.14](https://github.com/dkimura/eslint-config/compare/v1.3.13...v1.3.14) (2021-06-18)
 
 
