@@ -1,3 +1,10 @@
+## [1.3.21](https://github.com/dkimura/eslint-config/compare/v1.3.20...v1.3.21) (2021-08-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-sort-keys-fix to v1.1.2 ([#88](https://github.com/dkimura/eslint-config/issues/88)) ([d3363e8](https://github.com/dkimura/eslint-config/commit/d3363e80baea92d6aace8242994395d76bf23138))
+
 ## [1.3.20](https://github.com/dkimura/eslint-config/compare/v1.3.19...v1.3.20) (2021-07-26)
 
 
