@@ -13,7 +13,7 @@ module.exports = {
     },
     // RuleSet for TypeScript
     {
-      extends: ['airbnb-typescript', 'airbnb/hooks', './base.js'],
+      extends: ['airbnb', 'airbnb-typescript', 'airbnb/hooks', './base.js'],
       files: ['**/*.ts', '**/*.tsx'],
       rules,
     },
