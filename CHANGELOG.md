@@ -1,3 +1,10 @@
+## [1.3.46](https://github.com/dkimura/eslint-config/compare/v1.3.45...v1.3.46) (2021-10-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-typescript-sort-keys to v2 ([#162](https://github.com/dkimura/eslint-config/issues/162)) ([949ce87](https://github.com/dkimura/eslint-config/commit/949ce878d6d20516d345ab52d7dc540f23fa89b2))
+
 ## [1.3.45](https://github.com/dkimura/eslint-config/compare/v1.3.44...v1.3.45) (2021-10-13)
 
 
