@@ -1,3 +1,10 @@
+## [1.3.48](https://github.com/dkimura/eslint-config/compare/v1.3.47...v1.3.48) (2021-10-24)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-sort-destructure-keys to v1.4.0 ([#172](https://github.com/dkimura/eslint-config/issues/172)) ([6281572](https://github.com/dkimura/eslint-config/commit/62815724ca4abb283c7f51d6999afa3cf128e850))
+
 ## [1.3.47](https://github.com/dkimura/eslint-config/compare/v1.3.46...v1.3.47) (2021-10-19)
 
 
