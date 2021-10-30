@@ -35,8 +35,8 @@
     "eslint-plugin-typescript-sort-keys": "2.0.0"
   },
   "devDependencies": {
-    "@semantic-release/changelog": "6.0.0",
-    "@semantic-release/git": "10.0.0",
+    "@semantic-release/changelog": "6.0.1",
+    "@semantic-release/git": "10.0.1",
     "@types/eslint": "7.28.2",
     "@types/jest": "27.0.2",
     "@types/react": "17.0.33",
