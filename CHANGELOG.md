@@ -1,3 +1,10 @@
+## [1.3.54](https://github.com/dkimura/eslint-config/compare/v1.3.53...v1.3.54) (2021-11-09)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-react-hooks to v4.3.0 ([#185](https://github.com/dkimura/eslint-config/issues/185)) ([15869d3](https://github.com/dkimura/eslint-config/commit/15869d34ecb87bcf3b82b9410964a2e02979cc9c))
+
 ## [1.3.53](https://github.com/dkimura/eslint-config/compare/v1.3.52...v1.3.53) (2021-11-08)
 
 
