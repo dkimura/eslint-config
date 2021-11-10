@@ -1,3 +1,10 @@
+## [1.3.55](https://github.com/dkimura/eslint-config/compare/v1.3.54...v1.3.55) (2021-11-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-import to v2.25.3 ([#186](https://github.com/dkimura/eslint-config/issues/186)) ([f28995f](https://github.com/dkimura/eslint-config/commit/f28995f9f6970c16017e7fd748840d97395f0878))
+
 ## [1.3.54](https://github.com/dkimura/eslint-config/compare/v1.3.53...v1.3.54) (2021-11-09)
 
 
