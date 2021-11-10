@@ -1,3 +1,10 @@
+## [1.3.57](https://github.com/dkimura/eslint-config/compare/v1.3.56...v1.3.57) (2021-11-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jsx-a11y to v6.5.1 ([#188](https://github.com/dkimura/eslint-config/issues/188)) ([0837f17](https://github.com/dkimura/eslint-config/commit/0837f17eae73592886742678787b83af84e4d44a))
+
 ## [1.3.56](https://github.com/dkimura/eslint-config/compare/v1.3.55...v1.3.56) (2021-11-10)
 
 
