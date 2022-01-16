@@ -1,5 +1,6 @@
 const { rules: typeScriptRules } = require('./rules/typescript')
 const { rules: sortRules } = require('./rules/sort')
+const { rules: unusedImportsRules } = require('./rules/unused-imports')
 
 module.exports = {
   overrides: [
@@ -7,7 +8,8 @@ module.exports = {
     {
       extends: ['prettier'],
       files: ['**/*.js', '**/*.jsx'],
-      rules: { ...sortRules },
+      plugins: ['unused-imports'],
+      rules: { ...sortRules, ...unusedImportsRules },
     },
     // RuleSet for TypeScript
     {
@@ -17,10 +19,11 @@ module.exports = {
         'prettier',
       ],
       files: ['**/*.ts', '**/*.tsx'],
-      plugins: ['typescript-sort-keys'],
+      plugins: ['typescript-sort-keys', 'unused-imports'],
       rules: {
         ...sortRules,
         ...typeScriptRules,
+        ...unusedImportsRules,
       },
     },
   ],
