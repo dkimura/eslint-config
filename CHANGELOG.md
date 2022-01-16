@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/dkimura/eslint-config/compare/v1.3.72...v1.4.0) (2022-01-16)
+
+
+### Features
+
+* Add eslint-plugin-unused-imports ([#243](https://github.com/dkimura/eslint-config/issues/243)) ([b60e699](https://github.com/dkimura/eslint-config/commit/b60e699fdc304d46eddfe006b0f2c11799fa0090))
+
 ## [1.3.72](https://github.com/dkimura/eslint-config/compare/v1.3.71...v1.3.72) (2022-01-16)
 
 
