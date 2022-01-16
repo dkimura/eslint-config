@@ -1,3 +1,10 @@
+## [1.3.72](https://github.com/dkimura/eslint-config/compare/v1.3.71...v1.3.72) (2022-01-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-airbnb to v19 ([#189](https://github.com/dkimura/eslint-config/issues/189)) ([af60afc](https://github.com/dkimura/eslint-config/commit/af60afc3b6b7ffc68c9786fd337017341ab6ff0b))
+
 ## [1.3.71](https://github.com/dkimura/eslint-config/compare/v1.3.70...v1.3.71) (2022-01-10)
 
 
