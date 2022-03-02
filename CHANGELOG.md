@@ -1,3 +1,10 @@
+## [1.4.12](https://github.com/dkimura/eslint-config/compare/v1.4.11...v1.4.12) (2022-03-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-prettier to v8.5.0 ([#282](https://github.com/dkimura/eslint-config/issues/282)) ([da19ec2](https://github.com/dkimura/eslint-config/commit/da19ec2384dcfa3206341afe76582918eef277a1))
+
 ## [1.4.11](https://github.com/dkimura/eslint-config/compare/v1.4.10...v1.4.11) (2022-02-28)
 
 
