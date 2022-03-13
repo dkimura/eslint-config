@@ -1,3 +1,10 @@
+## [1.4.16](https://github.com/dkimura/eslint-config/compare/v1.4.15...v1.4.16) (2022-03-13)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-airbnb-typescript to v16.1.2 ([#290](https://github.com/dkimura/eslint-config/issues/290)) ([de8f32c](https://github.com/dkimura/eslint-config/commit/de8f32cf5083715e7bda960e9886791d91179219))
+
 ## [1.4.15](https://github.com/dkimura/eslint-config/compare/v1.4.14...v1.4.15) (2022-03-11)
 
 
