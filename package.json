@@ -46,7 +46,7 @@
     "@types/jest": "27.4.1",
     "@types/react": "18.0.3",
     "@types/react-dom": "18.0.0",
-    "enhanced-resolve": "5.9.2",
+    "enhanced-resolve": "5.9.3",
     "eslint": "8.13.0",
     "fast-glob": "3.2.11",
     "husky": "7.0.4",
