@@ -1,3 +1,10 @@
+## [1.4.31](https://github.com/dkimura/eslint-config/compare/v1.4.30...v1.4.31) (2022-04-27)
+
+
+### Bug Fixes
+
+* **deps:** update react monorepo ([#339](https://github.com/dkimura/eslint-config/issues/339)) ([a1f07ac](https://github.com/dkimura/eslint-config/commit/a1f07aca44bd9f4bf4aec35531bc159aa86533ac))
+
 ## [1.4.30](https://github.com/dkimura/eslint-config/compare/v1.4.29...v1.4.30) (2022-04-26)
 
 
