@@ -1,3 +1,10 @@
+## [1.4.50](https://github.com/dkimura/eslint-config/compare/v1.4.49...v1.4.50) (2022-07-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jsx-a11y to v6.6.1 ([#418](https://github.com/dkimura/eslint-config/issues/418)) ([ef90f85](https://github.com/dkimura/eslint-config/commit/ef90f85d2d860802f3bbc1ad3bf76a28b99f915c))
+
 ## [1.4.49](https://github.com/dkimura/eslint-config/compare/v1.4.48...v1.4.49) (2022-07-11)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "@dkimura/eslint-config",
-  "version": "1.4.49",
+  "version": "1.4.50",
   "license": "MIT",
   "author": "Daichi Kimura <dkimura@bdd.xyz>",
   "repository": "ssh://git@github.com/dkimura/eslint-config.git",
