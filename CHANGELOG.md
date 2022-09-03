@@ -1,3 +1,10 @@
+## [1.4.64](https://github.com/dkimura/eslint-config/compare/v1.4.63...v1.4.64) (2022-09-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-simple-import-sort to v8 ([#448](https://github.com/dkimura/eslint-config/issues/448)) ([7215b83](https://github.com/dkimura/eslint-config/commit/7215b838830d638f322c50465c0bbdfb94dcfa4d))
+
 ## [1.4.63](https://github.com/dkimura/eslint-config/compare/v1.4.62...v1.4.63) (2022-09-03)
 
 
