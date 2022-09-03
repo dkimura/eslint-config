@@ -1,3 +1,10 @@
+## [1.4.63](https://github.com/dkimura/eslint-config/compare/v1.4.62...v1.4.63) (2022-09-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-react to v7.31.4 ([#446](https://github.com/dkimura/eslint-config/issues/446)) ([ec7636c](https://github.com/dkimura/eslint-config/commit/ec7636cbab2b24449e3d67155003ddd8c5d060e0))
+
 ## [1.4.62](https://github.com/dkimura/eslint-config/compare/v1.4.61...v1.4.62) (2022-09-03)
 
 
